@@ -18,19 +18,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,linux,git,github,mongodb,vscode" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhijeetbarai&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetbarai&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### 📂 Projects
