@@ -7,9 +7,12 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 TY BScIT Student (Mumbai University)  
-- 💻 Learning Linux, Git/GitHub, Backend  
-- 🚀 Building real projects & open source  
+- ☁️ Skilled in AWS Cloud Services including IAM, EC2, S3, VPC, and RDS
+- 🐧 Strong understanding of Linux Administration and System Management
+- 🐳 Experienced with Docker, Docker Compose, and Containerized Deployments
+- 🚀 Building real projects & open source
+- 🌱 Continuously improving cloud deployment, automation, and troubleshooting skills
+  
 
 ---
 
